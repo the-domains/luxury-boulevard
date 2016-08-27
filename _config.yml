@@ -1,0 +1,14 @@
+layout_spectrum: 0.31820505345240235
+typography_spectrum: 0.08453195146284997
+color:
+  brandStrength: 0.9548944772686809
+  lightness: 0.5053360871970654
+  saturation: 0.2781777062918991
+  rhythmicContrast: 0.5030978759750724
+  brandColors:
+    - '#FFFFFF'
+    - '#080000'
+    - '#FEB600'
+    - '#512701'
+    - '#CB6900'
+name: Luxury Boulevard
